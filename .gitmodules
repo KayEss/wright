@@ -16,3 +16,6 @@
 [submodule "crypto++"]
 	path = crypto++
 	url = git@github.com:KayEss/fost-crypto.git
+[submodule "fost-wright"]
+	path = fost-wright
+	url = git@github.com:KayEss/fost-wright.git
