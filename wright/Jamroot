@@ -16,14 +16,17 @@ fost-project wright
 # The parts of the system that need to be built
 alias fost :
         ../fost-base//fost
+        ../fost-wright//fost
     ;
 
 alias test :
         ../fost-base//tests
+        ../fost-wright//tests
     ;
 explicit test ;
 
 alias all :
         ../fost-base//all
+        ../fost-wright//all
     ;
 explicit all ;
