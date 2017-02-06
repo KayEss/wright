@@ -19,3 +19,6 @@
 [submodule "fost-wright"]
 	path = fost-wright
 	url = git@github.com:KayEss/fost-wright.git
+[submodule "fost-internet"]
+	path = fost-internet
+	url = git@github.com:KayEss/fost-internet
